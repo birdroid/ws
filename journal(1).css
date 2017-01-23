@@ -1,0 +1,140 @@
+body {font-family:Tahoma, Arial, sans-serif;  font-style: normal;font-weight: normal;  font-size:87%;  background-color:#7bdef4; background-image:url("http://static.diary.ru/userdir/2/4/4/6/2446822/84590405.jpg"); background-repeat: repeat; background-position: 0 0;  color:#292928; }
+textarea{font-family:Tahoma, Arial, sans-serif;  font-style: normal;font-weight: normal;  font-size:87%; color:#292928; }
+
+#topNav, #bottomNav {background-color:#f7e9dd;}
+#topNav a, #bottomNav a {color:#8d4834;}
+.block_design .bordered{background-color:#fefcf5;  border-color:transparent; border:none;}
+.header,h1{color:#8d4834; font-size:114%; font-style: normal;font-weight: normal;  background-color:#f7e9dd;}
+.header h2{font-style: normal;font-weight: normal;};
+.singlePost .header, .linkssection .header{background-color:#fefcf5;}
+.menuSection,#epigraph,.formcontainer,.pageBar, .postContent, .postLinksBackg, .postTitle, .authorName, .communityName, .order_button, .section, .list_box{background-color:#fefcf5;}
+#side h1 a, .header a{color:#8d4834;}
+a, .linkssection .postLinks a{color:#2e2e2d;}
+.countSecond .postContent, .countSecond .postLinksBackg, .countSecond .postTitle, .countSecond .authorName, .countSecond .communityName, .singlePost.countSecond .header, .linkssection.countSecond .header{background-color:#FFFFFF;}
+.postDate, .countSecond .postDate{color:#8d4834; font-size:114%; font-style: normal;font-weight: normal; background-color:#f7e9dd;}
+
+.top .bordered{background-color:#fefcf5;}
+.top .menuSection ul, .top #thisDiaryPhoto, .top #sign{background-color:#FFFFFF; border:1px solid transparent; border:none; }
+.top .menuSection_title{color: #2e2e2d;}
+
+.cbegun {color:#292928;  font-weight:normal;  font-size:92%;}
+.cbegun:hover {text-decoration:underline;}
+.offtop {color:#999;}
+#GroupOp {background-color:#f7e9dd; color:#8d4834;}
+
+
+/*блочный*/
+.block_design .singlePost, .block_design .menuSection, .block_design .singleComment, .block_design .section, .block_design #epigraph, .block_design .pageBar, .block_design .group_link, .block_design .list_box{border-color: transparent; border:none;}
+.block_design .countSecond .postContent, .block_design .countSecond .header, .block_design .countSecond .postLinksBackg, .block_design .countSecond .authorName,  .block_design .countSecond .communityName{background-color:#fefcf5;}
+.block_design .header,.block_design h1, .block_design #topNav, .block_design .postTitle, .block_design .singlePost .header.postDate, .block_design .linkssection .header, .block_design .postDate{background-color:transparent;}
+.block_design #side h1 a{color: #2e2e2d;}
+.block_design #side h1{font-size: 92%; font-weight: normal;font-style: normal;}
+.top.block_design #side h1{font-size: 114%; border-bottom: 1px solid transparent; border:none;}
+.top.block_design .menuSection{border-top: none;}
+.block_design #GroupOp {  background-color:transparent; border-top-color: transparent; border:none;}
+
+.forCheck {  float:right;  }
+
+#favGroups a, #linksGroups a, #draft_list a{color: #2e2e2d; font-weight: normal;}
+.calnd th {  background-color:#FFFFFF;  color:#292928; font-style: normal;font-weight: normal;  text-align:center;  }
+.calnd tr.cal-head{border-bottom: 1px solid transparent; border:none;}
+.calnd td.cal-mnth {  font-style: normal;font-weight: normal;  text-align:center;  color:#292928;  }
+.menu_block {  background-color:#fefcf5;  }
+.sign{color:#292928;}
+
+.in-list .postTitle, .in-list h2{    font-weight: normal;}
+.in-list .postTitle{color: #292928;}
+.in-list .postTitle span{    font-size:85%;}
+.block_design .in-list .postLinksBackg, .block_design .in-list .postTitle{padding:0;}
+
+/*????*/
+#msg_form {padding:0;  margin:0; font-size: 100%;}
+
+
+
+.header.calHeader { text-align: left;}
+#content {margin-bottom:1px; background-color:#fefcf5;}
+
+.pollLine { background-color:#292928; height: 1px; padding:0px; }
+
+/*end ????*/
+
+.favTagsColor { color:#000; }
+
+.TagL {color:#292928;}
+
+#my_tags{border-color:transparent; border:none; background-color:#FFFFFF;}
+
+/*всплывающее info*/
+#info_wind .flwin {color: #292928; border-color: transparent; border:none;}
+
+/*вкладки*/
+#vkl li a{color: #2e2e2d;}
+#vkl .z_top{background-color: #fefcf5;}
+#vkl .current a, #vkl .current .z_n{background-color:#FFFFFF;}
+#vkl li a, #vkl .z_n{background-color:#fefcf5;}
+#vkl .z_v{background-color: transparent; border:none;}
+#vkl .z_n, #vkl li a{border-style: solid; border-width: 0 1px 0 1px; border-color: transparent; border:none;}
+#vkl li a{border-width: 0 1px 1px 1px;}
+
+/*кнопки*/
+.mceToolbarTop{background:#FFFFFF !important;}
+.mce{border: 1px solid transparent; border:none!important; position: relative;}
+.mceToolbarTop{border-bottom:1px solid  transparent; border:none !important;}
+.htmlbox{border-color:  #292928; border: 1px solid transparent; border:none; margin:0; padding: 0; position: relative;}
+#jsbut {font-size: 86%; background-color:#FFFFFF!important; border-bottom:1px solid  transparent; border:none!important;}
+#codebuttons a img, a.mceButtonNormal img, a.mceButtonSelected img, a.mceButtonDisabled img, #codebuttons span.buts{border: transparent; border:none 1px solid!important;}
+*html a.mceButtonNormal, *html a.mceButtonSelected, *html a.mceButtonDisabled{
+border: transparent; border:none 1px solid!important;}
+span.mceMenuButton img, span.mceMenuButtonSelected img{border: transparent; border:none 1px solid;}
+span.mceMenuButton img.mceMenuButton, span.mceMenuButtonSelected img.mceMenuButton, span.mceMenuButton:hover img.mceMenuButton, span.mceMenuButtonSelected:hover img.mceMenuButton{border-left:none  !important;}
+
+/*прозрачность*/
+a.mceButtonNormal img, a.mceButtonSelected img, a.mceButtonDisabled img, span.mceMenuButton img, span.mceMenuButtonSelected img{opacity:0.7;}
+a.mceButtonDisabled img{opacity:0.5;}
+* html a.mceButtonNormal img, *html a.mceButtonSelected img, *html span.mceMenuButton img, *html  span.mceMenuButtonSelected img{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);}
+* html a.mceButtonDisabled img{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);}
+*:first-child+html a.mceButtonNormal img, a.mceButtonSelected img, span.mceMenuButton img, span.mceMenuButtonSelected img{
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);}
+*:first-child+html a.mceButtonDisabled img{filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);}
+
+/*панель смайлов*/
+#shsmile{background-color:#FFFFFF; border:1px solid  transparent; border:none; margin:0; border-top:none; padding:3px;}
+.SmilePanelElement small { background: #FFFFFF; border:1px solid transparent; border:none; color:#292928;}
+
+/*управл€ющие элементы*/
+
+.htmlbox textarea, input.text, #trspisok textarea, #close_text{background-color: #fefcf5;  font-family:Tahoma, Arial, sans-serif;  font-style: normal;font-weight: normal;;  font-size:100%; color:#292928;}
+input.text, select, #trspisok textarea, #description, #close_text, #side #search_selectbtid{border: 1px solid transparent; border:none;}
+input.submit, .submit{border-color:  #292928; border: 1px solid transparent; border:none; background-color:#ffffff;opacity: 0.6; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60); color: #000000;}
+.submit{opacity: 0.8; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80);}
+ input.inp_check{opacity: 0.6; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);}
+
+/*кнопки редактировани€, иконки*/
+.postActionLinks, #sortOrder, .openidIco{opacity: 0.6;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);}
+
+
+/*суггестр*/
+#suggestform{border-color: transparent; border:none;}
+
+/*белые пол€*/
+.form_alt_style input.text,
+#postsArea.form_alt_style input.text, 
+#addCommentArea.form_alt_style input.text,
+.form_alt_style #trspisok textarea,
+.form_alt_style #description, 
+.form_alt_style #close_text,
+.form_alt_style #yaquery{
+    background-color: #ffffff;
+    opacity: 0.7;
+    filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70);
+    color: #000000;
+}
+.form_alt_style .htmlbox table{
+    background-color: #ffffff;
+    opacity: 0.7;
+}
+.form_alt_style .htmlbox textarea{
+    background-color: transparent;
+    color: #000000;    
+}
